@@ -25,6 +25,11 @@
       ],
       "type": "assets",
       "workspace": "test_token_1_frontend"
+    }, 
+    "icrc1_ledger_canister": {
+      "type": "custom",
+      "candid": "icrc1_ledger.did",
+      "wasm" : "icrc1_ledger.wasm.gz"
     }
   },
   "defaults": {
